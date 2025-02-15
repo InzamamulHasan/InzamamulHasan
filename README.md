@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=inzamamulhasan&label=Profile%20views&color=0e75b6&style=flat" alt="inzamamulhasan" /> </p>
 
-- 🌱 I’m currently learning **React in Acciojob**
+- 🌱 I’m currently working as software developer in Aeologic Technologies deported in NIC Guwahati
 
-- 💬 Ask me about **HTML, CSS, Java, Javascript**
+- 💬 Ask me about **HTML, CSS, Java, Javascript, React, Redux, PHP, Codeigniter, Jquery, Bootstrap**
 
 - 📫 How to reach me **inzamamulhasan2015@gmail.com**
 
